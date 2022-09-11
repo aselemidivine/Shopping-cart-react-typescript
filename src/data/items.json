@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "Book",
+        "price": 10.99,
+        "imgUrl": "/images/Television.jpg"
+    },
+
+    {
+        "id": 2,
+        "name": "Car",
+        "price": 1199,
+        "imgUrl": "/images/cars.jfif"
+    },
+
+    {
+        "id": 3,
+        "name": "Tacos",
+        "price": 10.99,
+        "imgUrl": "/images/Tacos.jfif"
+    },
+
+    {
+        "id": 4,
+        "name": "Glasses",
+        "price": 15.7,
+        "imgUrl": "/images/Glasses.jfif"
+    }
+]
